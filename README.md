@@ -1,2 +1,2 @@
 # remindme
-A calendar website using MERN stack + tailwind css in which we can journal daily, add or remove reminders for birthdays, deadlines etc., 
+A full-stack website with calendar, event and birthday reminders, and journaling capabilities to organize our daily lives.
